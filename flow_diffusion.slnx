@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="flow_diffusion_1D/flow_diffusion_1D.vcxproj" Id="710b9824-77ff-49af-ab7b-4b0b824e4d10" />
+  <Project Path="flow_diffusion_2D/flow_diffusion_2D.vcxproj" Id="416c8afb-fc29-4678-a3bf-8c9f64ed57d1" />
+  <Project Path="flow_diffusion_2D_io/flow_diffusion_2D_io.vcxproj" Id="130c989a-0639-4f8e-add6-d4064e245717" />
+</Solution>

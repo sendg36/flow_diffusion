@@ -1,0 +1,29 @@
+# Visual Studio build output / cache
+.vs/
+out/
+x64/
+Debug/
+Release/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.ilk
+*.pdb
+*.idb
+*.tlog
+*.lastbuildstate
+
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.aps 
